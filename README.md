@@ -41,6 +41,8 @@ pip install -r requirements.txt
 - **Exploratory Analysis**: Price trends, volume, returns distribution
 - **Technical Indicators**: Moving averages, RSI, MACD, Bollinger Bands
 - **Visualization**: Interactive and static charts
+- **Interactive Dashboards**: Plotly candlestick, technical dashboard, returns heatmap, volume profile
+- **Advanced Charts**: Drawdown, rolling volatility, weekday returns, monthly performance, event annotations
 - **Statistical Analysis**: Correlation, volatility, risk metrics
 
 ## Usage
@@ -74,6 +76,7 @@ viz.plot_returns_distribution()
 | `01_data_exploration.ipynb` | Initial data loading and EDA |
 | `02_technical_analysis.ipynb` | Technical indicators and signals |
 | `03_portfolio_analysis.ipynb` | Multi-stock comparison and portfolio metrics |
+| `04_dashboards.ipynb` | Interactive Plotly dashboards and advanced charts |
 
 ## License
 
