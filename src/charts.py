@@ -2,7 +2,6 @@
 
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
-from mpl_finance import candlestick_ohlc  # type: ignore
 import seaborn as sns
 import pandas as pd
 import numpy as np
